@@ -1,5 +1,6 @@
-package com.example.msa1;
+package com.example.msa1.controller;
 
+import com.example.msa1.domain.Greeting;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;

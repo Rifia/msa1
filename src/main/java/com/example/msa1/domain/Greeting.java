@@ -1,4 +1,4 @@
-package com.example.msa1;
+package com.example.msa1.domain;
 
 public class Greeting {
 
